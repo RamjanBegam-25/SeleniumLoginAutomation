@@ -26,4 +26,4 @@ How to Run the Project
 3. Run the TestNG test file
 
 Author
-Ramzan — Beginner Automation Tester
+Ramjan Begam — Beginner Automation Tester
